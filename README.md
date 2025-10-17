@@ -1,11 +1,3 @@
-Perfect 👍 That’s great content — it just needs **Markdown formatting** so GitHub displays it cleanly with spacing, highlights, and structure.
-
-Here’s your same text, fully reformatted for GitHub 👇
-You can copy and paste this directly into your `README.md` file:
-
----
-
-```markdown
 # 🧾 PDF Creator – Automated Homework Compilation Tool
 
 This Python program automatically generates a well-formatted **PDF book** from multiple text-based files stored in a `tasks/` folder.  
@@ -32,7 +24,6 @@ It uses the **FPDF** library to combine all assignments into a single document w
 
 ### Folder structure:
 ```
-
 ├── pdf_creator.py
 ├── tasks/
 │   ├── assignment1.py
@@ -40,8 +31,7 @@ It uses the **FPDF** library to combine all assignments into a single document w
 │   ├── notes.txt
 ├── images/
 │   └── logos.svg
-
-````
+```
 
 ---
 
@@ -52,8 +42,7 @@ It uses the **FPDF** library to combine all assignments into a single document w
 3. Run:
    ```bash
    python pdf_creator.py
-````
-
+   ```
 4. Find the generated **Book.pdf** in your project folder.
 
 ---
@@ -61,16 +50,3 @@ It uses the **FPDF** library to combine all assignments into a single document w
 ## 👨‍💻 Author
 
 **Benjamin Irabisohoje** – Simple and elegant PDF automation using Python.
-
-```
-
----
-
-✅ **What this fixes:**
-- Proper newlines and spacing  
-- Highlighted code blocks  
-- Clickable links  
-- Cleaner layout on GitHub  
-
-Would you like me to also make a **dark-theme optimized version** (with colored code and emojis styled for GitHub’s dark mode)?
-```
