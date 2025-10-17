@@ -20,7 +20,7 @@ It uses the **FPDF** library to combine all assignments into a single document w
 ## 🛠️ Requirements
 
 - Python 3.x  
-- [fpdf](https://pypi.org/project/fpdf/) library  
+- [fpdf2](https://pypi.org/project/fpdf2/) library  
 
 ### Folder structure:
 ```
